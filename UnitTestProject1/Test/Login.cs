@@ -39,7 +39,7 @@ namespace UnitTestProject1.Test
             {
                 pLogin
                       .SetDNI("32779710")
-                      .SetContrasenia("Gr3231685")
+                      .SetContrasenia("test")
                       .ClickIngresar();
                        
             }
